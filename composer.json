@@ -1,0 +1,7 @@
+{
+    "name": "nicolasnovello/php-basic",
+    "require": {
+        "fzaninotto/faker": "^1.7",
+        "jzonta/faker-restaurant": "^1.0"
+    }
+}
