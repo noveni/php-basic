@@ -1,5 +1,7 @@
 # PHP Basic
 
+In the php-basic folder
+
 ```php
 docker run -d -p 3000:80 --name php-basic-container -v "$PWD":/var/www/html php:7.0-apache
 ```
